@@ -1,6 +1,7 @@
 package in.ineuron.test;
 
 import org.hibernate.cfg.Configuration;
+
 import in.ineuron.model.Student;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestApp.java&apos; to &apos;HB-PersistApp/src/in.ineuron.test&apos;&#x0D;&#x0A;- Original project: &apos;HB-01SaveApp&apos;&#x0D;&#x0A;- Destination element: &apos;HB-PersistApp/src/in.ineuron.test&apos;&#x0D;&#x0A;- Original element: &apos;in.ineuron.test.TestApp.java&apos;" description="Copy compilation unit" destination="=HB-PersistApp/src&lt;in.ineuron.test" element1="/src&lt;in.ineuron.test{TestApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1681447342804" units="1" version="1.0"/>
+</session>
