@@ -9,7 +9,7 @@ public class StudentGenerator implements IdentifierGenerator {
 
 	@Override
 	public Serializable generate(SharedSessionContractImplementor arg0, Object arg1) throws HibernateException {
-String idString="IN-01";
+		String idString = "IN-01";
 		return idString;
 	}
 

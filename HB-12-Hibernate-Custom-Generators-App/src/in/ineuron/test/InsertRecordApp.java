@@ -24,9 +24,9 @@ public class InsertRecordApp {
 
 			if (trnxn != null) {
 				Student student=new Student();
-				student.setsAddres("ki5sdr");
-				student.setsAge(67322);
-				student.setsName("AJdgo");
+				student.setsAddres("ki5dr");
+				student.setsAge(622);
+				student.setsName("Ago");
 					id=(String)session.save(student);
 					flag = true;
 				

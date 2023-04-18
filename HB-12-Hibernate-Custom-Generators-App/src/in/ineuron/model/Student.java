@@ -13,16 +13,13 @@ import org.hibernate.annotations.GenericGenerator;
 public class Student {
 
 	@Id
-	@GenericGenerator(name = "gen11",strategy = "in.ineuron.idgenerator.StudentGenerator")
-@GeneratedValue(generator="gen11")
+	@GenericGenerator(name = "gen12",strategy = "in.ineuron.idgenerator.MyGenerator")
+@GeneratedValue(generator="gen12")
 	private String sid;
-
 	private String sName;
-
 	private String sAddres;
-
 	private Integer sAge;
-
+	
 	public Student() {
 		System.out.println("zero argument constructors are used by Hibernate Internally.");
 	}
