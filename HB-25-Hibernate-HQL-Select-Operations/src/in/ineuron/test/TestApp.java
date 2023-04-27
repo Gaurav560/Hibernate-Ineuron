@@ -15,14 +15,14 @@ public class TestApp {
 
 	{
 
-//for select operation in hibernate no transaction is required
+//for select(all objects) operation in hibernate no transaction is required
 		Session session = null;
 		try
 
 		{
 			session = hibernateUtil.getSession();
 			// prepare query object to hold hql
-			Query query = session.createQuery("FROM in.ineuron.model.products");// works same as selct * from products
+			Query<products> query = session.createQuery("FROM in.ineuron.model.products");// works same as selct * from products
 			
 			//execute the query
 			List<products> li = query.list();

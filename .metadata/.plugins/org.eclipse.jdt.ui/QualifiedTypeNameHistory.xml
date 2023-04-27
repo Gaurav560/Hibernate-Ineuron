@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Random"/>
-<fullyQualifiedTypeName name="javax.persistence.EmbeddedId"/>
-<fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
-<fullyQualifiedTypeName name="in.ineuron.model.ProgrameerProjId"/>
-<fullyQualifiedTypeName name="in.ineuron.model.ProgrammerProjectInfo"/>
-<fullyQualifiedTypeName name="java.time.LocalDate"/>
-<fullyQualifiedTypeName name="java.time.LocalTime"/>
-<fullyQualifiedTypeName name="in.ineuron.util.hibernateUtil"/>
-<fullyQualifiedTypeName name="in.ineuron.model.PersonInfo"/>
-<fullyQualifiedTypeName name="in.ineuron.model.MobileCustomer"/>
-<fullyQualifiedTypeName name="javax.transaction.Transaction"/>
-<fullyQualifiedTypeName name="com.sun.xml.internal.ws.api.model.wsdl.editable.EditableWSDLBoundFault"/>
 <fullyQualifiedTypeName name="java.lang.Double"/>
 <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.security.keys.keyresolver.implementations.PrivateKeyResolver"/>
 <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-<fullyQualifiedTypeName name="javax.persistence.Version"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.CreationTimestamp"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.UpdateTimestamp"/>
 <fullyQualifiedTypeName name="in.ineuron.model.BankAccount"/>
 <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.Long"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.Cache"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.CacheConcurrencyStrategy"/>
@@ -28,10 +14,8 @@
 <fullyQualifiedTypeName name="net.sf.ehcache.hibernate.EhCache"/>
 <fullyQualifiedTypeName name="net.sf.ehcache.hibernate.EhCacheRegionFactory"/>
 <fullyQualifiedTypeName name="javax.persistence.Cacheable"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="in.ineuron.util.HibernateUtil"/>
 <fullyQualifiedTypeName name="in.ineuron.model.Student"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="in.ineuron.dao.TransferDaoImpl"/>
 <fullyQualifiedTypeName name="in.ineuron.dao.ITransferDao"/>
@@ -39,9 +23,6 @@
 <fullyQualifiedTypeName name="in.ineuron.util.mysql2hibernateUtil"/>
 <fullyQualifiedTypeName name="in.ineuron.model.Product"/>
 <fullyQualifiedTypeName name="javax.xml.transform.Source"/>
-<fullyQualifiedTypeName name="org.hibernate.Transaction"/>
-<fullyQualifiedTypeName name="org.hibernate.Session"/>
-<fullyQualifiedTypeName name="java.lang.Boolean"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.security.KeyStore.PrivateKeyEntry"/>
 <fullyQualifiedTypeName name="javax.persistence.Lob"/>
@@ -55,9 +36,28 @@
 <fullyQualifiedTypeName name="org.hibernate.hql.internal.ast.tree.SelectExpressionList"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="javax.persistence.Version"/>
+<fullyQualifiedTypeName name="in.ineuron.model.InsurancePolicy1"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.hibernate.LockMode"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
 <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="in.ineuron.util.hibernateUtil"/>
+<fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
+<fullyQualifiedTypeName name="org.hibernate.Query"/>
+<fullyQualifiedTypeName name="org.hibernate.query.Query"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="com.mysql.cj.result.Row"/>
+<fullyQualifiedTypeName name="org.hibernate.query.criteria.internal.ValueHandlerFactory.IntegerValueHandler"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="in.ineuron.model.products"/>
+<fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
 </qualifiedTypeNameHistroy>
